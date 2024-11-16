@@ -1,0 +1,13 @@
+{
+    "board_id": 7100,
+    "magic": "PX4FWv1",
+    "description": "Firmware for the V7pro board",
+    "image": "",
+    "build_time": 0,
+    "summary": "V7pro",
+    "version": "0.1",
+    "image_size": 0,
+    "image_maxsize": 1966080,
+    "git_identity": "",
+    "board_revision": 0
+}
